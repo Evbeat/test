@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-windth, inittal-scale=1.0" />
+        <title>Doc</title>
+    </head>
+    <body>    
+        <header>
+            <nav>
+                <!-- comment --!>
+            </nav> 
+        </header>
+        <main>
+            <section>
+                <h1>Современная Пекарня</h1>
+            </section>
+            <section>
+                <h2>Новый формат</h2>
+            <p>
+                <span>shop bakery</span> - Это что-то то там, для чего-то там. Очень хорошие и очень качественно все делают. Верь мне, ведь я текст.
+            </p>
+            </section>
+            <section>
+                <h2>Лучшие повора</h2>
+                <article></article>
+                <article></article>
+            </section>
+            <section>
+                <h2>Формати</h2>
+                <article></article>
+                <article></article>
+                <article></article>
+             </section>
+            <section>
+                <h2> Присоединяйтесь к нашей сети Сыч Инфоком </h2>
+            </section>
+        </main>
+        <footer>
+
+        </footer>
+    </body>
+</html>
